@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Healthcare BMI Calculator</string>
+    <string name="bmi">BMI</string>
+    <string name="_00">00</string>
+    <string name="description">Description</string>
+    <string name="health_risk">Health Risk</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="des01">Very severely underweight</string>
+    <string name="des02">Severely underweight</string>
+    <string name="des03">Underweight</string>
+    <string name="des04">Normal (healthy weight)</string>
+    <string name="des05">Overweight</string>
+    <string name="des06">Obese Class I (Moderately obese)</string>
+    <string name="des07">Obese Class II (Severely obese)</string>
+    <string name="des08">Obese Class III (Very severely obese)</string>
+    <string name="des09">Obese Class IV (Morbidly Obese)</string>
+    <string name="des10">Obese Class V (Super Obese)</string>
+    <string name="des11">Obese Class VI (Hyper Obese)</string>
+    <string name="risk01">Risk of developing problems such as nutritional deficiency and osteoporosis</string>
+    <string name="risk02">Low Risk (healthy range)</string>
+    <string name="risk03">Moderate risk of developing heart disease, high blood pressure, stroke, diabetes</string>
+    <string name="risk04">High risk of developing heart disease, high blood pressure, stroke, diabetes</string>
+</resources>
